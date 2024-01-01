@@ -10,16 +10,16 @@ Bienvenidos a mi repositorio de Limpieza de Datos de Netflix, que demuestra mi p
 ## Project Overview
 The Python scripts provided here are meticulously crafted to address essential guide questions for data cleaning, such as:
 
-- Identifying and removing null values within the dataset.
-- Handling and substituting incomplete data entries.
-- Assessing and pruning non-informative columns, providing justification for their removal.
-- Converting the data type of the "release_year" column to integer.
-- Breaking down the "listed_in" column to extract and retain only the first listed value.
+- Identifying and removing null values.
+- Handling and replacing incomplete data entries.
+- Assessing and pruning non-informative columns.
+- Converting the data type of "release_year" to integer.
+- Simplifying the "listed_in" column, retaining only the first listed value.
 
 ## Dataset
 The dataset used herein is the Netflix dataset from Kaggle, available through this [link](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization), which I have employed to display my data cleansing methodology.
 
-### Showcase of Skills
+## Showcase of Skills
 This repository demonstrates my abilities in:
 - Data analysis with Python.
 - Data cleansing with pandas and NumPy.
