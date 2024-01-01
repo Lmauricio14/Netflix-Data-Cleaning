@@ -7,7 +7,7 @@ Welcome to my Netflix-Data-Cleaning repository, where I demonstrate my expertise
 
 Bienvenidos a mi repositorio de Limpieza de Datos de Netflix, que demuestra mi pericia en el preprocesamiento de datos utilizando Python. Este repositorio actúa como una pieza de mi portafolio profesional, exhibiendo mi habilidad para transformar datos en bruto en un formato limpio y manejable, adecuado para análisis posterior.
 
-## Project Overview
+## 1. Project Overview
 The Python scripts provided here are meticulously crafted to address essential guide questions for data cleaning, such as:
 
 - Identifying and removing null values.
@@ -16,10 +16,10 @@ The Python scripts provided here are meticulously crafted to address essential g
 - Converting the data type of "release_year" to integer.
 - Simplifying the "listed_in" column, retaining only the first listed value.
 
-## Dataset
+## 2. Dataset
 The dataset used herein is the Netflix dataset from Kaggle, available through this [link](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization), which I have employed to display my data cleansing methodology.
 
-## Showcase of Skills
+## 3. Showcase of Skills
 This repository demonstrates my abilities in:
 - Data analysis with Python.
 - Data cleansing with pandas and NumPy.
