@@ -19,12 +19,6 @@ The Python scripts provided here are meticulously crafted to address essential g
 ## Dataset
 The dataset used herein is the Netflix dataset from Kaggle, available through this [link](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization), which I have employed to display my data cleansing methodology.
 
-## Instructions
-1. Clone this repository.
-2. Ensure Python is installed on your machine, and then install the dependencies listed in `requirements.txt`.
-3. Download the dataset from the above Kaggle link.
-4. Utilize the scripts to perform data cleaning on the Netflix dataset.
-
 ## Showcase of Skills
 The scripts in this repository are a testament to my skills in:
 - Utilizing Python for data analysis.
