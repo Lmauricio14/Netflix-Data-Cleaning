@@ -17,7 +17,7 @@ The Python scripts provided here are meticulously crafted to address essential g
 - Simplifying the "listed_in" column, retaining only the first listed value.
 
 ## 2. Dataset
-The dataset used herein is the Netflix dataset from Kaggle, available through this [link](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization), which I have employed to display my data cleansing methodology.
+The dataset used herein is the Netflix dataset from Kaggle, available through this [link](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization).
 
 ## 3. Showcase of Skills
 This repository demonstrates my abilities in:
