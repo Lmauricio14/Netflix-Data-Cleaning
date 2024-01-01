@@ -1,11 +1,15 @@
 # Netflix-Data-Cleaning
 ### English 
+---
 
 Welcome to my Netflix-Data-Cleaning repository, where I demonstrate my expertise in data preprocessing using Python. This repository serves as a portfolio piece, showcasing my ability to transform raw data into a clean, workable format suitable for analysis.
 
 ### Español
+---
 
 Bienvenidos a mi repositorio de Limpieza de Datos de Netflix, que demuestra mi pericia en el preprocesamiento de datos utilizando Python. Este repositorio actúa como una pieza de mi portafolio profesional, exhibiendo mi habilidad para transformar datos en bruto en un formato limpio y manejable, adecuado para análisis posterior.
+
+---
 
 ### Project Overview
 The Python scripts provided here are meticulously crafted to address essential guide questions for data cleaning, such as:
