@@ -19,12 +19,12 @@ The Python scripts provided here are meticulously crafted to address essential g
 ## Dataset
 The dataset used herein is the Netflix dataset from Kaggle, available through this [link](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization), which I have employed to display my data cleansing methodology.
 
-## Showcase of Skills
-The scripts in this repository are a testament to my skills in:
-- Utilizing Python for data analysis.
-- Implementing pandas and NumPy to cleanse datasets.
+### Showcase of Skills
+This repository demonstrates my abilities in:
+- Data analysis with Python.
+- Data cleansing with pandas and NumPy.
 - Preparing data for exploratory data analysis and machine learning models.
-- Documenting the data cleaning process for clarity and reproducibility.
+- Clear and reproducible documentation.
 
 I invite potential employers to review the code and consider my technical capabilities for data-related roles.
 
